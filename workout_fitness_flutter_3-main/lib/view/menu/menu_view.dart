@@ -23,7 +23,6 @@ class MenuView extends StatefulWidget {
   @override
   State<MenuView> createState() => _MenuViewState();
 }
-// TODO: implement initState
 class _MenuViewState extends State<MenuView> {
   List planArr = [
     {
